@@ -1,7 +1,7 @@
 # UltimatePickaxe
 Admins Commands:
-- setminedblocks <amount>
-- setTier <Tier>
+- setminedblocks <amount\>
+- setTier <Tier\>
   
 ![2022-09-04_21 25 19](https://user-images.githubusercontent.com/79111320/188332625-05200cec-a8c7-4c69-84d0-fed8016b1edf.png)
 ![2022-09-04_21 25 29](https://user-images.githubusercontent.com/79111320/188332626-08d64199-4b0e-4f38-af4a-ffb02bc7df18.png)
