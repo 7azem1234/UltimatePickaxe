@@ -1,0 +1,9 @@
+name: PowerFulPickaxe
+version: '${project.version}'
+main: me.hazem.powerfulpickaxe.PowerFulPickaxe
+api-version: 1.19
+commands:
+  setminedblocks:
+    description: sets MinedBlocks on Ultimate Pickaxe PersistentDataContainer
+  settier:
+    description: sets MiningTier on Ultimate Pickaxe PersistentDataContainer
